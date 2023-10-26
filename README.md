@@ -11,7 +11,7 @@
 
 ## 准备
 
-- UID卡扣/白卡 购买链接：[https://m.tb.cn/h.5WxPZNn](https://m.tb.cn/h.5WxPZNn) （使用现有校园卡或从其他商家购买亦可）
+- UID卡扣/白卡 购买链接：<https://new.m.taobao.com/detail.htm?id=568277488633> （使用现有校园卡或从其他商家购买亦可）
 - 一台有NFC功能的安卓手机
 - 软件 **MIFARE Classic Tool**  下载链接：[https://res.costg.de/zh-CN/%F0%9F%92%BB%E5%BA%94%E7%94%A8/IC%E5%8D%A1/MifareClassicTool-4.0.5.apk](https://res.costg.de/zh-CN/%F0%9F%92%BB%E5%BA%94%E7%94%A8/IC%E5%8D%A1/MifareClassicTool-4.0.5.apk)
 - 电梯卡数据文件 文件名 `SES.mct` 在本仓库下
